@@ -17,7 +17,7 @@ dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.mi
 UPLOAD_DIRECTORY = os.path.abspath("/opt/lampp/htdocs/dolibarr/documents/ficheinter/")
 
 VALID_USERNAME_PASSWORD_PAIRS = {
-    'jbastruz': 'TEST'
+    'USER': 'PASSWORD'
 }
 
 if not os.path.exists(UPLOAD_DIRECTORY):
